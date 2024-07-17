@@ -1,0 +1,227 @@
+[
+    {
+        "id": 1,
+        "name":" CARROT",
+        "price": 60,
+        "image": "image/11.jpg",
+        "kg": 50
+    },
+    {
+        "id": 2,
+        "name":" TOMATO",
+        "price": 25,
+        "image": "image/12.jpg",
+        "kg": 70
+    },
+    {
+        "id": 3,
+        "name":" CUCUMBER",
+        "price": 30,
+        "image": "image/13.jpg",
+        "kg": 30
+    },
+    {
+        "id": 4,
+        "name":" PEAS",
+        "price": 68,
+        "image": "image/14.jpg",
+        "kg": 55
+    },
+    {
+        "id": 5,
+        "name":" BROCOLLI",
+        "price": 30,
+        "image": "image/15.jpg",
+        "kg": 60
+    },
+    {
+        "id": 6,
+        "name":"ONION",
+        "price": 50,
+        "image": "image/16.jpg",
+        "kg": 75
+    },
+    {
+        "id": 7,
+        "name":" RADISH",
+        "price": 40,
+        "image": "image/17.jpg",
+        "kg": 40
+    },
+    {
+        "id": 8,
+        "name":" CAULI FLOWER",
+        "price": 41,
+        "image": "image/18.jpg",
+        "kg": 56
+    },
+    {
+        "id": 9,
+        "name":" GARLIC",
+        "price": 200,
+        "image": "image/19.jpg",
+        "kg": 78
+    },
+    {
+        "id": 10,
+        "name":" CABBAGE",
+        "price": 25,
+        "image": "image/20.jpg",
+        "kg": 72
+    },
+    {
+        "id": 11,
+        "name":" BITTER GUARD",
+        "price": 55,
+        "image": "image/21.jpg",
+        "kg": 40
+    },
+    {
+        "id": 12,
+        "name":" APPLE",
+        "price": 120,
+        "image": "image/1.jpeg",
+        "kg": 52
+    },
+    {
+        "id": 13,
+        "name":" PEARS",
+        "price": 246,
+        "image": "image/2.jpeg",
+        "kg": 38
+    },
+    {
+        "id": 14,
+        "name":" PINEAPPLE",
+        "price": 90,
+        "image": "image/3.jpeg",
+        "kg": 30
+    },
+    {
+        "id": 15,
+        "name":" KIWI",
+        "price": 500,
+        "image": "image/4.jpeg",
+        "kg": 45
+    },
+    {
+        "id": 16,
+        "name":" MANGO",
+        "price": 100,
+        "image": "image/5.jpeg",
+        "kg": 55
+    },
+    {
+        "id": 17,
+        "name":" POMEGRANATE",
+        "price": 160,
+        "image": "image/6.jpeg",
+        "kg": 48
+    },
+    {
+        "id": 18,
+        "name":" BANANA",
+        "price": 45,
+        "image": "image/7.jpeg",
+        "kg": 72
+    },
+    {
+        "id": 19,
+        "name":" ORANGE",
+        "price": 70,
+        "image": "image/8.jpeg",
+        "kg": 65
+    },
+    {
+        "id": 20,
+        "name":" CHERRY",
+        "price": 600,
+        "image": "image/9.jpeg",
+        "kg": 42
+    },
+    {
+        "id": 21,
+        "name":" GRAPES",
+        "price": 120,
+        "image": "image/10.jpeg",
+        "kg": 65
+    },
+    {
+        "id": 22,
+        "name":" RICE",
+        "price": 50,
+        "image": "image/22.jpeg",
+        "kg": 250
+    },
+    {
+        "id": 23,
+        "name":" SUGAR",
+        "price": 60,
+        "image": "image/23.jpeg",
+        "kg": 120
+    },
+    {
+        "id": 24,
+        "name":" SALT",
+        "price": 15,
+        "image": "image/24.jpeg",
+        "kg": 270
+    },
+    {
+        "id": 25,
+        "name":" PICKLE",
+        "price": 150,
+        "image": "image/25.jpeg",
+        "kg": 90
+    },
+    {
+        "id": 26,
+        "name":" JEERA",
+        "price": 55,
+        "image": "image/26.jpeg",
+        "kg": 40
+    },
+    {
+        "id": 27,
+        "name":" TURMERIC POWDER",
+        "price": 20,
+        "image": "image/27.jpeg",
+        "kg": 70
+    },
+    {
+        "id": 28,
+        "name":"TEA POWDER",
+        "price": 55,
+        "image": "image/28.jpeg",
+        "kg": 82
+    },
+    {
+        "id": 29,
+        "name":" COFFEE POWDER",
+        "price": 200,
+        "image": "image/29.jpeg",
+        "kg": 85
+    },
+    {
+        "id": 30,
+        "name":" SUNFLOWER OIL",
+        "price": 235,
+        "image": "image/30.jpeg",
+        "kg": 70
+    },
+    {
+        "id":31,
+        "name":" CHILLI POWDER",
+        "price": 20,
+        "image": "image/31.jpeg",
+        "kg": 94
+    },
+    {
+        "id":32,
+        "name":" ATTA",
+        "price": 60,
+        "image": "image/32.jpeg",
+        "kg": 150
+    }
+
+]
